@@ -3,8 +3,6 @@
 
 <b>Seja bem-vindo ao meu git!</b> 😊
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ALINE INOUE&color=f8efd4&style=for-the-badge&logo=GitHub">
-
 ---
 
 **🚀 Minhas Skills**
